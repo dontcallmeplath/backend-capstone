@@ -1,0 +1,476 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Brooks West",
+      "imageUrl": "https://i.postimg.cc/Kv6xz6vc/Brooks-West.jpg",
+      "capstoneLink": "https://github.com/BrooksMWest",
+      "showLink": true,
+      "superlativeId": 6,
+      "email": "brookswest@class.com"
+    },
+    {
+      "id": 2,
+      "name": "Charlie Seaton",
+      "imageUrl": "https://i.postimg.cc/XqZ6N8Ry/Charlie-Seaton.jpg",
+      "capstoneLink": "https://github.com/seatonct",
+      "showLink": true,
+      "superlativeId": 7,
+      "email": "charlieseaton@class.com"
+    },
+    {
+      "id": 3,
+      "name": "Daniel Bennett",
+      "imageUrl": "https://i.postimg.cc/9fphLzPz/Daniel-Bennett.jpg",
+      "capstoneLink": "https://github.com/Daniel-Bennett777",
+      "showLink": true,
+      "superlativeId": 8,
+      "email": "danielbennett@class.com"
+    },
+    {
+      "id": 4,
+      "name": "Helen Esterman",
+      "imageUrl": "https://i.postimg.cc/tC1ch1FH/Helen-Esterman.jpg",
+      "capstoneLink": "https://github.com/HelenEsterman",
+      "showLink": true,
+      "superlativeId": 13,
+      "email": "helenesterman@class.com"
+    },
+    {
+      "id": 5,
+      "name": "Josh Bartow",
+      "imageUrl": "https://i.postimg.cc/KvdHQZ53/Josh-Bartow.jpg",
+      "capstoneLink": "https://github.com/Jbartow92",
+      "showLink": true,
+      "superlativeId": 9,
+      "email": "joshbartow@class.com"
+    },
+    {
+      "id": 6,
+      "name": "Julie Foster",
+      "imageUrl": "https://i.postimg.cc/RFZzy9Gd/Julie-Foster.jpg",
+      "capstoneLink": "https://github.com/JulieAF",
+      "showLink": true,
+      "superlativeId": 10,
+      "email": "juliefoster@class.com"
+    },
+    {
+      "id": 7,
+      "name": "Justin Miller",
+      "imageUrl": "https://i.postimg.cc/cHkNNjbS/Justin-Miller.jpg",
+      "capstoneLink": "https://github.com/JustinM094",
+      "showLink": true,
+      "superlativeId": 11,
+      "email": "justinmiller@class.com"
+    },
+    {
+      "id": 8,
+      "name": "Kevin Quail",
+      "imageUrl": "https://i.postimg.cc/fy6nVdsq/Kevin-Quail.jpg",
+      "capstoneLink": "https://github.com/KQ7365",
+      "showLink": true,
+      "superlativeId": 12,
+      "email": "kevinquail@class.com"
+    },
+    {
+      "id": 9,
+      "name": "Luke Hardy",
+      "imageUrl": "https://i.postimg.cc/sf8R6kWP/Luke-Hardy.jpg",
+      "capstoneLink": "https://github.com/LukeTHardy",
+      "showLink": true,
+      "superlativeId": 13,
+      "email": "lukehardy@class.com"
+    },
+    {
+      "id": 10,
+      "name": "Michelle Primiani",
+      "imageUrl": "https://i.postimg.cc/g2bbd3Nn/Michelle-Primiani.jpg",
+      "capstoneLink": "https://github.com/hi-michelleprimiani",
+      "showLink": true,
+      "superlativeId": 14,
+      "email": "michelleprimiani@class.com"
+    },
+    {
+      "id": 11,
+      "name": "Michelle Totherow",
+      "imageUrl": "https://i.postimg.cc/5txcQbcJ/Michelle-Totherow.jpg",
+      "capstoneLink": "https://github.com/thechelle13",
+      "showLink": true,
+      "superlativeId": 15,
+      "email": "michelletotherow@class.com"
+    },
+    {
+      "id": 12,
+      "name": "Monir Madkour",
+      "imageUrl": "https://i.postimg.cc/kXbPkTN0/Monir-Madkour.jpg",
+      "capstoneLink": "https://github.com/noormadkour",
+      "showLink": true,
+      "superlativeId": 16,
+      "email": "monirmadkour@class.com"
+    },
+    {
+      "id": 13,
+      "name": "Nate McFarlin",
+      "imageUrl": "https://i.postimg.cc/XYKSvXzx/Nate-Mc-Farlin.jpg",
+      "capstoneLink": "https://github.com/NathanielMcfarlin",
+      "showLink": true,
+      "superlativeId": 17,
+      "email": "natemcfarlin@class.com"
+    },
+    {
+      "id": 14,
+      "name": "Nathan Chevalier",
+      "imageUrl": "https://i.postimg.cc/1tjbdF8R/Nathan-Chevalier.png",
+      "capstoneLink": "https://github.com/Nathan-Chevalier",
+      "showLink": true,
+      "superlativeId": 18,
+      "email": "nathanchevalier@class.com"
+    },
+    {
+      "id": 15,
+      "name": "Nicholas Williams",
+      "imageUrl": "https://i.postimg.cc/sxGbC2WY/Nicholas-Williams.jpg",
+      "capstoneLink": "https://github.com/ndwilliams",
+      "showLink": true,
+      "superlativeId": 19,
+      "email": "nicholaswilliams@class.com"
+    },
+    {
+      "id": 16,
+      "name": "Paolo Medel",
+      "imageUrl": "https://i.postimg.cc/W1gfHQ9W/Paolo-Medel.jpg",
+      "capstoneLink": "https://github.com/Paolo-Medel",
+      "showLink": true,
+      "superlativeId": 20,
+      "email": "paolomedel@class.com"
+    },
+    {
+      "id": 17,
+      "name": "Scott Cole",
+      "imageUrl": "https://i.postimg.cc/MZhpMM98/Scott-Cole.png",
+      "capstoneLink": "https://github.com/ScottCole929",
+      "showLink": true,
+      "superlativeId": 21,
+      "email": "scottcole@class.com"
+    },
+    {
+      "id": 18,
+      "name": "Skylar Paskwietz",
+      "imageUrl": "https://i.postimg.cc/pTTgkCX1/Skylar-Paskwietz.jpg",
+      "capstoneLink": "https://github.com/skylarpaskwietz",
+      "showLink": true,
+      "superlativeId": 22,
+      "email": "skylarpaskwietz@class.com"
+    },
+    {
+      "id": 19,
+      "name": "Spencer Norris",
+      "imageUrl": "https://i.postimg.cc/HWJLk442/Spencer-Norris.png",
+      "capstoneLink": "https://github.com/Snorris91",
+      "showLink": true,
+      "superlativeId": 23,
+      "email": "spencernorris@class.com"
+    },
+    {
+      "id": 20,
+      "name": "Sylvia Tennant",
+      "imageUrl": "https://i.postimg.cc/VLnLjfh0/Sylvia-Tennant.png",
+      "capstoneLink": "https://github.com/dontcallmeplath",
+      "showLink": true,
+      "superlativeId": 33,
+      "email": "sylviatennant@class.com"
+    },
+    {
+      "id": 21,
+      "name": "Tricia Swift",
+      "imageUrl": "https://i.postimg.cc/HjGRYC0f/Tricia-Swift.jpg",
+      "showLink": true,
+      "capstoneLink": "https://github.com/triciaswift",
+      "superlativeId": 24,
+      "email": "triciaswift@class.com"
+    },
+    {
+      "id": 22,
+      "name": "Tristan Phifer",
+      "imageUrl": "https://i.postimg.cc/htn4MFFy/Tristan-Phifer.jpg",
+      "capstoneLink": "https://github.com/PhiferTristan",
+      "showLink": true,
+      "superlativeId": 25,
+      "email": "tristanphifer@class.com"
+    },
+    {
+      "id": 23,
+      "name": "Zach D'Amico",
+      "imageUrl": "https://i.postimg.cc/pLBW60R2/Zach-Damico.jpg",
+      "capstoneLink": "https://github.com/ZachDAmico",
+      "showLink": true,
+      "superlativeId": 26,
+      "email": "zachdamico@class.com"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 12,
+      "recipientId": 4,
+      "read": false
+    },
+    {
+      "id": 2,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 22,
+      "recipientId": 4,
+      "read": false
+    },
+    {
+      "id": 3,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 20,
+      "recipientId": 4,
+      "read": false
+    },
+    {
+      "id": 4,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 2,
+      "recipientId": 3,
+      "read": false
+    },
+    {
+      "id": 9,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 3,
+      "recipientId": 4,
+      "read": false
+    },
+    {
+      "id": 10,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 5,
+      "recipientId": 6,
+      "read": false
+    },
+    {
+      "id": 11,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 7,
+      "recipientId": 8,
+      "read": false
+    },
+    {
+      "id": 12,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 9,
+      "recipientId": 10,
+      "read": false
+    },
+    {
+      "id": 13,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 11,
+      "recipientId": 12,
+      "read": false
+    },
+    {
+      "id": 14,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 13,
+      "recipientId": 14,
+      "read": false
+    },
+    {
+      "id": 15,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 15,
+      "recipientId": 16,
+      "read": false
+    },
+    {
+      "id": 16,
+      "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content",
+      "timestamp": "4:20pm on June 9, 2069",
+      "senderId": 17,
+      "recipientId": 18,
+      "read": false
+    },
+    {
+      "id": 21,
+      "text": "hello charlie ! you are a butt :)",
+      "timestamp": "",
+      "senderId": 4,
+      "recipientId": 2,
+      "read": false
+    },
+    {
+      "text": "HI JULIE !",
+      "timestamp": "",
+      "senderId": 4,
+      "recipientId": 6,
+      "read": false,
+      "id": 26
+    },
+    {
+      "text": "HI agin lol",
+      "timestamp": "",
+      "senderId": 4,
+      "recipientId": 6,
+      "read": false,
+      "id": 27
+    },
+    {
+      "text": "hey Josh !!!",
+      "timestamp": "",
+      "senderId": 4,
+      "recipientId": 5,
+      "read": false,
+      "id": 28
+    }
+  ],
+  "superlatives": [
+    {
+      "id": 1,
+      "text": "Most likely to win Jeopardy"
+    },
+    {
+      "id": 2,
+      "text": "Most likely to send you a Facebook request (derogatory)"
+    },
+    {
+      "id": 3,
+      "text": "Most likely to confuse everyone with their deep thoughts"
+    },
+    {
+      "id": 4,
+      "text": "Most likely to be mistaken for a celebrity"
+    },
+    {
+      "id": 5,
+      "text": "Most likely to be afk"
+    },
+    {
+      "id": 6,
+      "text": "Most likely to start a new fashion trend"
+    },
+    {
+      "id": 7,
+      "text": "Most likely to accept side quests"
+    },
+    {
+      "id": 8,
+      "text": "Most likely to sit like a shrimp"
+    },
+    {
+      "id": 9,
+      "text": "Most likely to do stand-up in their spare time"
+    },
+    {
+      "id": 10,
+      "text": "Most likely to win a Nobel Prize"
+    },
+    {
+      "id": 11,
+      "text": "Most likely to be President"
+    },
+    {
+      "id": 12,
+      "text": "Most likely to make everyone laugh"
+    },
+    {
+      "id": 13,
+      "text": "Most likely to change the world"
+    },
+    {
+      "id": 14,
+      "text": "Most likely to parlay this certification into a hostile takeover"
+    },
+    {
+      "id": 15,
+      "text": "Most likely to publish their findings"
+    },
+    {
+      "id": 16,
+      "text": "Most likely to turn every assignment into art"
+    },
+    {
+      "id": 17,
+      "text": "Most likely to be snacking on zoom"
+    },
+    {
+      "id": 18,
+      "text": "Most likely to give a Ted talk"
+    },
+    {
+      "id": 19,
+      "text": "Most likely to win a staring contest with a wall"
+    },
+    {
+      "id": 20,
+      "text": "Most likely to win a singing contest"
+    },
+    {
+      "id": 21,
+      "text": "Most likely to own their company"
+    },
+    {
+      "id": 22,
+      "text": "Most likely to take good notes"
+    },
+    {
+      "id": 23,
+      "text": "Most likely to shatter a world record"
+    },
+    {
+      "id": 24,
+      "text": "Most likely to believe in aliens"
+    },
+    {
+      "id": 25,
+      "text": "Most likely to join a circus after NSS"
+    },
+    {
+      "id": 26,
+      "text": "Most likely to have their sock drawer organized by style and color"
+    },
+    {
+      "id": 27,
+      "text": "Most likely to take a Junior position at NSS"
+    },
+    {
+      "id": 28,
+      "text": "Most likely to brighten your day"
+    },
+    {
+      "id": 29,
+      "text": "Most likely to put it off til tomorrow"
+    },
+    {
+      "id": 30,
+      "text": "Most likely to become a YouTube coding guru"
+    },
+    {
+      "id": 31,
+      "text": "Most likely to invent a new form of social media"
+    },
+    {
+      "id": 32,
+      "text": "Most likely to quietly take over the world"
+    },
+    {
+      "id": 33,
+      "text": "Most likely to win the lottery and lose the ticket"
+    }
+  ],
+  "anonUsers": []
+}
